@@ -1,0 +1,4 @@
+import package --> prefab --> player
+
+set up before import package:
+Windows --> package manager--> change packages: in project to packages: Unity registry --> search Input system using search bar --> import entire input system(it might made your unity to reload) --> done reload --> click Edit --> click project settins --> find Player --> scroll down and expand "other setting" section --> Under configuration section, find Active Input Handling, select new Input System Package(New)--> all set!!!
